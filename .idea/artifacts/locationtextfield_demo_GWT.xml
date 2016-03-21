@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="locationtextfield-demo:GWT">
+    <output-path>$PROJECT_DIR$/locationtextfield-demo/src/main/webapp/VAADIN/widgetsets</output-path>
+    <root id="root">
+      <element id="directory" name="VAADIN">
+        <element id="directory" name="widgetsets">
+          <element id="gwt-compiler-output" facet="locationtextfield-demo/gwt/GWT" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
